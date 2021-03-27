@@ -1,10 +1,6 @@
-# qClub
-**qClub** je website za edukaciju djece i mladih ljudi u Bosni i Hercegovini prvenstveno tokom pandemije COVID-19 virusa. Omogućava Vam qEdukacije, uz naše mentore, te također imate i mogućnost pristupima svim našim qTestovima, za poboljšavanje kognitivnih sposobnosti. Naši psiholozi, koji su dostupni u svako doba dana, su tu da Vam pomognu sa Vašim problemima. 
-### Karakteristike qClub website-a:
-1. qTest (razvijanje mozga) - nekoliko interaktivnih testova koji će Vam pomoći da razvijete svoje kognitivne sposobnosti. Testove koje možete pronaći na našem website-u su:
-   - Test brojeva - Zapamtite najveći broj koji možete.
-   - Aim trainer - Vježbajte ciljanje u ovom interaktivnom testu.
-   - Test tipkanja - Koliko brzo možete tipkati?
-   - Vrijeme reakcije - Testirajte vaše vizuelne reflekse.
-   - Verbalna memorija - Pokušajte zapamtiti što više riječi.
-   - Vizualna memorija - Zapamtite uzorak koji se pojavljuje na ekranu.
+## Uvod
+Pandemija COVID-19 imala je veliki utjecaj na naše živote. Mnogi od nas suočeni su s izazovima koji mogu biti stresni, neodoljivi i izazivaju snažne emocije kod odraslih i djece. Međutim, šta je najveći problem oko svega toga? 
+Akcije, poput socijalnog distanciranja, neophodne su kako bi se smanjilo širenje COVID-19, ali one mogu učiniti da se osjećamo izolirano i usamljeno te povećati stres i anksioznost, tugu i gubitak energije. Prema Kaiser Family Foundationu, čak 56.2% mladih ljudi osjećaju anksioznost, sto je veliki problem, dok prema Statisti čak 33% stanovnika USA osjećaju anksioznost uzrokavanu od strane COVID-19. 
+Sve ovo se odnosi I na našu državu, gdje mnogi koordinatori za mentalno zdravlje u BiH zapravo govore da je anksioznost veliki problem, I da ukoliko se stanje ne popravi, mnogi će osjetitit posljedice.
+Prema anketi rađenoj od strane Unicef organizacije, mnogi roditelji vide problem oko korona virusa, što zapravo znači da se mnoga djeca moraju školovati kod svoje kuće, te samim time, znanje mnogih ostat će uskraćeno.
+Većina učenika/studenata imaju problema oko online nastave, gdje smatraju da trenutna online nastava nije dovoljlna I da se podhitno treba vratiti u školske klupe. Osim klasičnog obrazovanja, kognitivne sposobnosti mladih ljudi nakon što su prebolili COVID-19 virus, opadaju drastično. Prema istraživanju rađenom od strane Harvarda, kognitivne sposobnosti u smislu pamćenja, koncenstrisanosti, pa čak I razgovor sa prijateljima I porodicom, su dosta oštećene.
