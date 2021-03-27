@@ -3,4 +3,9 @@
 ### Karakteristike qClub website-a:
 1. qEdukacija (razvijanje mozga) - nekoliko interaktivnih testova koji će Vam pomoći da razvijete svoje kognitivne sposobnosti. Testove koje možete pronaći na našem website-u su:
    - Test brojeva - Zapamtite najveći broj koji možete.
+   - Aim trainer - Vježbajte ciljanje u ovom interaktivnom testu.
+   - Test tipkanja - Koliko brzo možete tipkati?
+   - Vrijeme reakcije - Testirajte vaše vizuelne reflekse.
+   - Verbalna memorija - Pokušajte zapamtiti što više riječi.
+   - Vizualna memorija - Zapamtite uzorak koji se pojavljuje na ekranu.
  
