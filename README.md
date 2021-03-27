@@ -16,7 +16,7 @@ Većina učenika/studenata imaju problema oko online nastave, gdje smatraju da t
 Rješenje ovih problema je naša platforma koju smo napravili za sve uzraste. **qClub** je website za edukaciju djece i mladih ljudi u Bosni i Hercegovini prvenstveno tokom pandemije COVID-19 virusa. Omogućava Vam qEdukacije, uz naše mentore, te također imate i mogućnost pristupima svim našim qTestovima, za poboljšavanje kognitivnih sposobnosti. Naši psiholozi, koji su dostupni u svako doba dana, su tu da Vam pomognu sa Vašim problemima.
 
 ## qTest
-U prvoj sekciji „qTest“ nalaze se igre i testovi za sve uzraste koji poboljšavaju kognitivne sposobnosti. Sve igre se mogu igrati besplatno. qTest je dokazan da poboljšava kognitivne sposobnosti jer igre koje smo pripremili su precizno odabrane za razvoj. Video igre nisu dječja stvar, već su kulturno dobro - i ujedno odličan lijek za frustraciju, tugu i potištenost.
+U prvoj sekciji „qTest“ nalaze se igre i testovi za sve uzraste koji poboljšavaju kognitivne sposobnosti. Sve igre se mogu igrati besplatno. qTest je dokazan da poboljšava kognitivne sposobnosti jer igre koje smo pripremili su precizno odabrane za razvoj. Video igre nisu dječja stvar, već su kulturno dobro - i ujedno odličan lijek za frustraciju, tugu i potištenost. qTest omogućava psiholozima i samom osoblju, da prati napredak korisnika na pojedinim igrama, te tako ima na uvid čitavo stanje korisnika.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/66512187/112725704-e42c6080-8f19-11eb-8b17-74a63e7e0982.png" width=500)>
