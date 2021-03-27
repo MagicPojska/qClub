@@ -1,3 +1,8 @@
+## Uputstvo za korištenje
+Da biste pokrenuli mockup projekta potrebno je da imate instaliran program pod nazivom Figma. </br>
+Da biste pogledali use case model potrebno je da imate instaliran Visual Paradigm Community Edition. </br>
+Za pregled ER dijagrama baze podataka potrebno je da posjetite site pod nazivom draw.io
+
 ## Uvod
 Pandemija COVID-19 imala je veliki utjecaj na naše živote. Mnogi od nas suočeni su s izazovima koji mogu biti stresni, neodoljivi i izazivaju snažne emocije kod odraslih i djece. Međutim, šta je najveći problem oko svega toga? 
 Akcije, poput socijalnog distanciranja, neophodne su kako bi se smanjilo širenje COVID-19, ali one mogu učiniti da se osjećamo izolirano i usamljeno te povećati stres i anksioznost, tugu i gubitak energije. Prema Kaiser Family Foundationu, čak 56.2% mladih ljudi osjećaju anksioznost, sto je veliki problem, dok prema Statisti čak 33% stanovnika USA osjećaju anksioznost uzrokavanu od strane COVID-19. 
