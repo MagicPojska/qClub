@@ -49,6 +49,6 @@ Tehnologije koje ćemo koristiti za izradu website su: JavaScript, HTML, CSS, Re
 
 ## Use case model
 
-![qClub2](https://user-images.githubusercontent.com/66512187/112726809-97e41f00-8f1f-11eb-92b3-9c2f9a665b28.jpg)
+![qClub3](https://user-images.githubusercontent.com/66512187/112734848-8d8a4b00-8f48-11eb-94cb-0b3d89f5924c.jpg)
 
 
