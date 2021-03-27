@@ -35,6 +35,6 @@ Mentalno zdravlje igra jednu od najvažnijih uloga u zdravlju čovjeka. Na osnov
   </p>
   
 ## Future
-Ova platforma ne mora postojati samo za vrijeme pandemije. Mislimo da ima potencijal za duže staze. Uvijek je potrebna pomoć mladima, ali pomoć na jednom mjestu. To je naša platforma za razvoj.
+Ova platforma ne mora postojati samo za vrijeme pandemije, ova platforma ima potencijal za budućnost.To je naša platforma za razvoj.
 Tehnologije koje ćemo koristiti za izradu website su: JavaScript, HTML, CSS, React JS, MySQL, Node JS, Express JS. Pripremili smo i ER dijagram baze podataka kao i sami Use Case dijagram u našem rješenju, kako bi sami koncept websitea Vama bio još jasniji.
 
