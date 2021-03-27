@@ -17,3 +17,24 @@ U prvoj sekciji „qTest“ nalaze se igre i testovi za sve uzraste koji pobolj�
 <img src="https://user-images.githubusercontent.com/66512187/112725704-e42c6080-8f19-11eb-8b17-74a63e7e0982.png" width=500)>
 </p>
 
+## qEdukacija
+Na osnovu analize problema obrazovanja u doba pandemije, naša web aplikacija nudi segment qEdukacije. Svrha ove sekcije je pomoć mladima za izgrade svoje soft vještine, da imaju mentore kojima se mogu obratiti za pomoć, održavanje grupnih seminara i obuka mladih.
+Zašto je mentorisanje važno?
+Mentorstvo je odnos u kojem kompetentnija ili iskusnija osoba trenira novog uposlenika tako da on razvija prave vještine.
+To je program obuke koji uključuje novog zaposlenika i mentora u kojem novi uposlenik uči od svog mentora kako bi naučio nove aspekte vezane uz posao i organizaciju. To je partnerstvo za učenje i razvoj između nekoga s velikim iskustvom i nekoga ko želi učiti.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/66512187/112725885-bb589b00-8f1a-11eb-8996-01ba21989668.png" width=500>
+  </p>
+  
+## Mentalno zdravlje
+Mentalno zdravlje igra jednu od najvažnijih uloga u zdravlju čovjeka. Na osnovu podataka koje smo ranije naveli mentalno zdravlje ide prema opadajućem smjeru. Zato naša web aplikacija nudi segment koji se fokusira na mentalno zdravlje. Budući da je trenutno teško doći do psihologa mi vam nudimo online terapije koje vam mogu pomoći pri vašim problemima. Sve što je potrebno jeste da zakažete termin iz udobnosti vašeg doma. To i ne mora biti video poziv, ako vam je lakše to može biti i tekstualni razgovor.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/66512187/112725927-007ccd00-8f1b-11eb-8ef5-6b736cfb3b96.png" width=500>
+  </p>
+  
+## Future
+Ova platforma ne mora postojati samo za vrijeme pandemije. Mislimo da ima potencijal za duže staze. Uvijek je potrebna pomoć mladima, ali pomoć na jednom mjestu. To je naša platforma za razvoj.
+Tehnologije koje ćemo koristiti za izradu website su: JavaScript, HTML, CSS, React JS, MySQL, Node JS, Express JS. Pripremili smo i ER dijagram baze podataka kao i sami Use Case dijagram u našem rješenju, kako bi sami koncept websitea Vama bio još jasniji.
+
