@@ -33,7 +33,7 @@ To je program obuke koji uključuje novog zaposlenika i mentora u kojem novi upo
   </p>
   
 ## Mentalno zdravlje
-Mentalno zdravlje igra jednu od najvažnijih uloga u zdravlju čovjeka. Na osnovu podataka koje smo ranije naveli mentalno zdravlje ide prema opadajućem smjeru. Zato naša web aplikacija nudi segment koji se fokusira na mentalno zdravlje. Budući da je trenutno teško doći do psihologa mi vam nudimo online terapije koje vam mogu pomoći pri vašim problemima. Sve što je potrebno jeste da zakažete termin iz udobnosti vašeg doma. To i ne mora biti video poziv, ako vam je lakše to može biti i tekstualni razgovor.
+Mentalno zdravlje igra jednu od najvažnijih uloga u zdravlju čovjeka. Na osnovu podataka koje smo ranije naveli mentalno zdravlje ide prema opadajućem smjeru. Zato naša web aplikacija nudi segment koji se fokusira na mentalno zdravlje. Budući da je trenutno teško doći do psihologa mi vam nudimo online terapije koje vam mogu pomoći pri vašim problemima. Sve što je potrebno jeste da zakažete termin iz udobnosti vašeg doma. To i ne mora biti video poziv, ako vam je lakše to može biti i tekstualni razgovor. U saradnji sa psiholozima mi planiramo da napravimo **AI** koji će u odsustvu svih psihologa vršiti razgovor sa korisnicima.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/66512187/112725927-007ccd00-8f1b-11eb-8ef5-6b736cfb3b96.png" width=500>
