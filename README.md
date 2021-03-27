@@ -8,4 +8,3 @@
    - Vrijeme reakcije - Testirajte vaše vizuelne reflekse.
    - Verbalna memorija - Pokušajte zapamtiti što više riječi.
    - Vizualna memorija - Zapamtite uzorak koji se pojavljuje na ekranu.
- 
