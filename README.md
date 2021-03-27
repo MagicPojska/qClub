@@ -38,3 +38,12 @@ Mentalno zdravlje igra jednu od najvažnijih uloga u zdravlju čovjeka. Na osnov
 Ova platforma ne mora postojati samo za vrijeme pandemije, ova platforma ima potencijal za budućnost.To je naša platforma za razvoj.
 Tehnologije koje ćemo koristiti za izradu website su: JavaScript, HTML, CSS, React JS, MySQL, Node JS, Express JS. Pripremili smo i ER dijagram baze podataka kao i sami Use Case dijagram u našem rješenju, kako bi sami koncept websitea Vama bio još jasniji.
 
+## ER dijagram baze podataka
+
+![QCLUB BAZA1](https://user-images.githubusercontent.com/66512187/112726684-070d4380-8f1f-11eb-9a3e-cf024c62f395.png)
+
+## Use case model
+
+![qClub2](https://user-images.githubusercontent.com/66512187/112726809-97e41f00-8f1f-11eb-92b3-9c2f9a665b28.jpg)
+
+
